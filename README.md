@@ -4,6 +4,11 @@ O objetivo é construir um **protótipo de Assistente Agrícola Inteligente** qu
 
 ---
 
+## 🎥 Vídeo 
+
+👉 https://youtu.be/dh6E4X11Tak
+---
+
 ## 🎯 Objetivos Atendidos
 
 - Modelar um banco de dados simples com dados agrícolas (umidade, pH, irrigação, fertilizante, produtividade).
